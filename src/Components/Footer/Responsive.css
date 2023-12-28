@@ -1,0 +1,19 @@
+/*Here is on responsive CSS */
+
+@media (max-width:500px) {
+    .main {
+        flex-direction: column;
+    }
+
+    .footer {
+        flex-direction: column;
+
+    }
+
+
+    .footer div p a {
+        flex-direction: column;
+
+    }
+
+}

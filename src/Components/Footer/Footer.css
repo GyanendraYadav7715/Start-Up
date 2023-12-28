@@ -1,0 +1,236 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* This is the footer frame structure */
+footer {
+    background-color: #333;
+    color: #fff;
+}
+
+/* This is the first div under the footer frame and it contains of three boxes */
+.main1 {
+    margin: 30px 30-x;
+    padding: 10px 10px;
+    display: flex;
+    gap: 100px;
+}
+
+/* This is the the first box */
+.box1 {
+    margin-left: 30px;
+}
+
+.box1 h4 {
+    font-size: 22px
+}
+
+.box1 p {
+    font-size: 20px;
+    line-height: 4rem;
+}
+
+.store {
+    width: 210px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.app {
+    width: 100px;
+    border-radius: 12px;
+    padding: 10px 10px;
+    font-size: 17px;
+    font-weight: 500;
+    background-color: #fff;
+}
+
+.app:hover {
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+}
+
+.icon {
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+}
+
+.icon i {
+    font-size: 30px;
+}
+
+.icon i:hover {
+    color: aqua;
+}
+
+/* This  is the first box coding closed here */
+
+/* This  is the second box and it contain two also */
+.box2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* this is the letf box */
+.left h4 {
+    font-size: 22px;
+}
+
+.left li {
+    line-height: 2rem;
+    text-decoration: none;
+    list-style: none;
+    gap: 10px;
+}
+
+/* this is the left box codeing closed */
+
+/* this is the right box */
+.right h4 {
+    font-size: 22px;
+}
+
+.right li {
+    line-height: 2rem;
+    list-style: none;
+}
+
+.right li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.right li a:hover {
+    color: #cdcdcd;
+}
+
+/* this is the right box  codeing closed*/
+
+/* This  is the second box codeing closed here */
+
+/* This  is the third box */
+.box3 {
+    margin-left: 50px;
+}
+
+.box3 h1 {
+    padding-top: 18px;
+    padding-left: 18px;
+    font-size: 24px;
+}
+
+.box3 h1:hover {
+    color: aqua;
+}
+
+.newsletter {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #333;
+
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #777;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input[type="email"] {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #007bff;
+
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    color: white;
+    background-color: #0056b3;
+}
+
+/* This  is the third box codeing closed here */
+
+
+/* This is the first div under the footer frame and it contains of three boxes  its codeing clode here */
+
+/* This is the second div under the footer frame  */
+
+.main2 {
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main2 p {
+    padding-left: 20px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.main2 div {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.main2 div p a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.main2 div p {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.main2 div p a:hover {
+    color: aqua;
+}
+
+.language div {
+    padding: 6px 4px;
+    color: black;
+    font-size: 20px;
+    margin-right: 30px;
+    border-radius: 5px;
+    align-items: center;
+    background-color: #fff;
+}
+
+.language div:hover {
+    background-color: #00000082;
+    color: #fff;
+    cursor: pointer;
+
+}
+
+/* This is the second div under the footer frame codeing */
