@@ -99,18 +99,16 @@ const Footer = () => {
         <div className="main2">
           <p>© 2023 Yaadein. All Rights Reserved.</p>
           <div>
-            <p>
-              <a href="/term.html">Terms of Use</a>
-            </p>
-            <p>
-              <a href="/privacy.html">Privacy Policy</a>
-            </p>
-            <p>
-              <a href="/lince.html">License</a>
-            </p>
-            <p>
-              <a href="/cookie.html">Imprint Cookies Policy</a>
-            </p>
+
+            <a href="/term.html">Terms of Use</a>
+
+            <a href="/privacy.html">Privacy Policy</a>
+
+
+            <a href="/lince.html">License</a>
+
+            <a href="/cookie.html">Imprint Cookies Policy</a>
+
           </div>
           <div className="language">
             <div>
