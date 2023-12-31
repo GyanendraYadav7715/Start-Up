@@ -102,12 +102,8 @@ const Footer = () => {
           <div>
 
             <a href="/term.html">Terms of Use</a>
-
             <a href="/privacy.html">Privacy Policy</a>
-
-
             <a href="/lince.html">License</a>
-
             <a href="/cookie.html">Imprint Cookies Policy</a>
 
           </div>

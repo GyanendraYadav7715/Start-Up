@@ -113,8 +113,8 @@ footer {
 
 
 .box3 h1 {
-    padding-top: 18px;
-    padding-left: 18px;
+    padding-top: 10px;
+    padding-bottom: 18px;  
     font-size: 24px;
 }
 
@@ -131,23 +131,23 @@ footer {
     border-radius: 5px;
 }
 
-h2 {
+.newsletter h2 {
     font-size: 24px;
     margin-bottom: 10px;
 }
 
-p {
+.newsletter p {
     color: #777;
     margin-bottom: 20px;
 }
 
-label {
+.newsletter form label {
     display: block;
     font-weight: bold;
     margin-bottom: 5px;
 }
 
-input[type="email"] {
+.newsletter form input[type="email"] {
     width: 90%;
     padding: 10px;
     margin-bottom: 15px;
@@ -155,7 +155,7 @@ input[type="email"] {
     border-radius: 3px;
 }
 
-button {
+.newsletter form button {
     background-color: #007bff;
 
     border: none;
@@ -165,7 +165,7 @@ button {
     transition: background-color 0.3s ease;
 }
 
-button:hover {
+.newsletter form button:hover {
     color: white;
     background-color: #0056b3;
 }
@@ -201,7 +201,7 @@ button:hover {
 
 .main2 div a {
     font-size: .8rem;
-    text-decoration: none;
+    text-decoration:none;
     color: #fff;
 }
 
