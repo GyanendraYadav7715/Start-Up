@@ -12,11 +12,42 @@
          margin-bottom: 2rem;
          
     }
+    .box1 h4{
+        font-size: 29px;
+        line-height:5vh;
+        
+         
+    }
+    .store button{
+        font-size: 1.4rem;
+        width: 20vh;
+        height:50px;
+    }
+    .box1 p{
+        font-size: 25px;
+        word-spacing: 3px;
+        font-weight: 400;
+        opacity: .7;
+    }
+    
+     
+    .icon{
+        margin-top:3vh;
+        gap: 4vh;
+    }
+    .icon i{
+        font-size: 40px;
+        
+    }
     .box2{
+        margin-top: -2vh;
       gap: 12vh;
     }
     .left h4,.right h4{
         font-size: 27px;
+    }
+    .left li,.right li{
+        font-size: 20px;
     }
     .box3 h1{
         font-size: 2rem;

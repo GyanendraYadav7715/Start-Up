@@ -16,8 +16,7 @@ const Footer = () => {
           <div className="box1">
             <h4>
 
-              We remember so,
-              <br />
+              We remember your memories<br/>
               that you don't forget.
             </h4>
             <p>Download one of our apps.</p>
@@ -48,7 +47,7 @@ const Footer = () => {
             <li>Collections</li>
             <li>Challenges</li>
             <li>Leaderboard</li>
-            <li>Other plugins &amp; apps</li>
+            <li>Other plugins</li>
           </div>
 
           <div className="right">

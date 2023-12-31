@@ -14,15 +14,18 @@ footer {
 /* This is the first div under the footer frame and it contains of three boxes */
 .main1 {
     display: flex;
-    gap: 100px;
+    justify-content: space-between;
     margin-bottom: 1rem;
 }
 
 /* This is the the first box */
 
-
+ 
 .box1 h4 {
     font-size: 1.7rem;
+    flex-wrap: wrap;
+    line-height:2.3rem;
+     
 }
 
 .box1 p {
@@ -31,9 +34,9 @@ footer {
 }
 
 .store {
-    width: 210px;
+     
     display: flex;
-    justify-content: space-between;
+    gap: 20px;
 }
 
 .app {
@@ -58,7 +61,7 @@ footer {
 }
 
 .icon i {
-    font-size: 30px;
+    font-size: 35px;
     transition: 0.3s ease;
 }
 
@@ -84,7 +87,7 @@ footer {
     line-height: 2rem;
     text-decoration: none;
     list-style: none;
-    gap: 10px;
+     
 }
 
 /* this is the left box codeing closed */
@@ -100,6 +103,7 @@ footer {
 }
 
 .right li a {
+    
     text-decoration: none;
     color: #fff;
 }
