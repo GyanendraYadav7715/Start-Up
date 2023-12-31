@@ -8,7 +8,10 @@
     .main1{
         display: block;
     }
-   
+          
+    .main2{
+        display: block;
+    }
     .main2 div{
      flex-direction: column;
     }
