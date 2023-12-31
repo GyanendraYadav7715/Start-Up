@@ -3,6 +3,7 @@ import React from 'react';
 import "./Footer.css";
 import "./Responsive.css";
 import 'remixicon/fonts/remixicon.css'
+ 
 
 const Footer = () => {
   return (
@@ -110,11 +111,7 @@ const Footer = () => {
             <a href="/cookie.html">Imprint Cookies Policy</a>
 
           </div>
-          <div className="language">
-            <div>
-              <i className="ri-global-line">English</i>
-            </div>
-          </div>
+          
         </div>
         {/* there is the second div under the footer codeing  closed*/}
       </footer>

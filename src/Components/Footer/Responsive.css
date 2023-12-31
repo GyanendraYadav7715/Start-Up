@@ -1,134 +1,21 @@
 /*Here is on responsive CSS */
 
 @media (max-width:500px) {
+    footer{
+        width: 100%;
+        padding-left:10%;
+    }
     .main1{
-        align-items: center;
-        flex-direction: column;
+        display: block;
+        overflow-x: hidden;
     }
-    .main2{
-        align-items: center;
-        flex-direction: column; 
-    }
-    .main2 div{
-        align-items: center;
-        flex-direction: column; 
-    }
-    .box2 {
-        align-items: center;
-        flex-direction: column;
-    }
-
-.box1 h4 {
-     
-    font-size:8vw;
-    font-weight: 700;
-}
-.box1 p {
-    
-    font-size:8vw;
-    
-}
-.store {
-     
-    width: 30vh;
-    display: flex;
-     
-}
-.icon{
-    margin-top:5vh;
-}
-.icon i {
-    font-size:6vh;
-}
-.left h4 {
-     
-    margin:2px;
-    margin-bottom: 7vh;
-    font-size:7vh;
-    align-items: center;
-}
-.left li{
-    margin: 2vh;
-    font-size: 3.5vh;
-}
-.right h4 {
-    margin-top:-35px;
-    margin-left:10px;
-    margin-bottom: 7vh;
-    font-size:7vh;
-    align-items: center;
-     
-}
-.right li{
-    margin: 2vh;
-    font-size: 3.5vh;
-}
-.box3 {
-     
-    margin-top: -80px;
-    margin-right: 10vh;
-}
-.box3 h1 {
-    margin-top: -10vh;
-    margin:2px;
-    margin-bottom: 7vh;
-    margin-right: 5vh;
-    font-size:7vh;
-    align-items: center;
-    
-}
-.newsletter h2 {
-    font-size:3vh ;
-    margin-left: 2vh;
-    margin-top: -5vh;
-}
-.newsletter p{
-    font-size:2vh ;
-    margin-left: 2vh;
-
-}
-label {
-    margin-left: 2vh;
-    font-size: 3vh;
-    
-}
-input{
-  
-     
-    
-    margin-left: 2vh;
-
-}
-button{
-    margin-left: 2vh;
-
-}
-.main2 p{
-   margin-top: -2vh;
-    font-size: 3vh;
-}
-.main2 div{
-    margin-top: 3vh;
-}
-
-.language div{
-    margin-left: 5vh;
-    width: 20vh;
-}
-
-
-
-
-
-
-
-
-
-    
-       
    
 
+    .main2{
+        display: grid;
+         
     }
+}
 
     
 
