@@ -14,6 +14,7 @@ footer {
 /* This is the first div under the footer frame and it contains of three boxes */
 .main1 {
     display: flex;
+     
     justify-content: space-between;
     margin-bottom: 1rem;
 }
@@ -22,6 +23,7 @@ footer {
 
  
 .box1 h4 {
+ 
     font-size: 1.7rem;
     flex-wrap: wrap;
     line-height:2.3rem;
