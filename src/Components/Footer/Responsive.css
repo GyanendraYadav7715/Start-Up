@@ -7,13 +7,14 @@
     }
     .main1{
         display: block;
-        overflow-x: hidden;
     }
-   
-
-    .main2{
+   .main2{
         display: grid;
          
+    }
+    .main2 div{
+     
+        flex-direction: column;
     }
 }
 
