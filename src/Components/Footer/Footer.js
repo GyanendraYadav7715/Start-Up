@@ -3,7 +3,7 @@ import React from 'react';
 import "./Footer.css";
 import "./Responsive.css";
 import 'remixicon/fonts/remixicon.css'
- 
+
 
 const Footer = () => {
   return (
@@ -38,18 +38,18 @@ const Footer = () => {
               <i className="ri-pinterest-line" />
             </div>
           </div>
-          <div className="box2">
-            <div className="left">
-              <h4>Yaadein</h4>
-              <li>Free Stock Photos</li>
-              <li>Free Videos</li>
-              <li>Popular searches</li>
-              <li>Collections</li>
-              <li>Challenges</li>
-              <li>Leaderboard</li>
-              <li>Other plugins &amp; apps</li>
-            </div>
+
+          <div className="left">
+            <h4>Yaadein</h4>
+            <li>Free Stock Photos</li>
+            <li>Free Videos</li>
+            <li>Popular searches</li>
+            <li>Collections</li>
+            <li>Challenges</li>
+            <li>Leaderboard</li>
+            <li>Other plugins &amp; apps</li>
           </div>
+
           <div className="right">
             <h4>Company</h4>
             <li>
@@ -111,7 +111,7 @@ const Footer = () => {
             <a href="/cookie.html">Imprint Cookies Policy</a>
 
           </div>
-          
+
         </div>
         {/* there is the second div under the footer codeing  closed*/}
       </footer>

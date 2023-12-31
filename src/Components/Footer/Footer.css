@@ -112,7 +112,7 @@ footer {
 /* This  is the second box codeing closed here */
 
 /* This  is the third box */
- 
+
 
 .box3 h1 {
     padding-top: 18px;
@@ -181,7 +181,7 @@ button:hover {
 
 .main2 {
     color: #fff;
-     
+
     text-align: center;
     display: flex;
     justify-content: center;
@@ -196,7 +196,7 @@ button:hover {
 
 .main2 div {
     display: flex;
-    
+
     align-items: center;
     gap: 30px;
 }
