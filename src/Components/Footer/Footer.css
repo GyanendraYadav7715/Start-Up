@@ -69,7 +69,10 @@ footer {
 
 /* This  is the first box coding closed here */
 
- 
+ .box2{
+    display: flex;
+     gap:5vw;
+ }
  
 
 /* this is the letf box */

@@ -8,6 +8,19 @@
     .main1{
         display: block;
     }
+    .box1{
+         margin-bottom: 2rem;
+         
+    }
+    .box2{
+      gap: 12vh;
+    }
+    .left h4,.right h4{
+        font-size: 27px;
+    }
+    .box3 h1{
+        font-size: 2rem;
+    }
           
     .main2{
         display: block;
@@ -16,6 +29,10 @@
      flex-direction: column;
      gap:10px
     }
+    .main2 div p{
+        font-size: 23px;
+    }
+
 }
  
 

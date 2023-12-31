@@ -39,7 +39,8 @@ const Footer = () => {
             </div>
           </div>
 
-          <div className="left">
+         <div className='box2'>
+         <div className="left">
             <h4>Yaadein</h4>
             <li>Free Stock Photos</li>
             <li>Free Videos</li>
@@ -70,6 +71,7 @@ const Footer = () => {
             <li>image &amp; Video API</li>
             <li>Sign Up</li>
           </div>
+         </div>
           <div className="box3">
             <h1>Yaadein</h1>
 
