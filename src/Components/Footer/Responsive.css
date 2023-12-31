@@ -8,13 +8,9 @@
     .main1{
         display: block;
     }
-   .main2{
-        display: grid;
-         
-    }
+   
     .main2 div{
-     
-        flex-direction: column;
+     flex-direction: column;
     }
 }
 
