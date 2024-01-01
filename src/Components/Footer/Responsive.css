@@ -13,6 +13,7 @@
          
     }
     .box1 h4{
+         white-space: nowrap;
         font-size: 29px;
         line-height:5vh;
         
